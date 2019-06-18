@@ -10,7 +10,7 @@ This reposityry contains ipython notebooks detailing many applications of natura
 
 ## Dependencies
 
-The projects in this repository use a variety of machine learning and deep learning labraries and python packages. In order to run most of the code, you will need to have the current version of Tensorflow installed on your machine. Other important depedencies include Pandas, Numpy, beautifulsoup4 and Matplotlib.
+The projects in this repository use a variety of machine learning and deep learning labraries and python packages. In order to run most of the code, you will need to have the current version of Tensorflow installed on your machine. Other important depedencies include Pandas, Numpy, [beautifulsoup4](www.crummy.com/software/BeautifulSoup/) and Matplotlib.
 
 ## For MacOS 
 Simply open a command window and run the following commands to install the necessary libraries. 

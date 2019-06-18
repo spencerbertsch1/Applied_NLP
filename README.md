@@ -26,32 +26,23 @@ If there are any other packages not installed when the code is run, simply call 
 
 # NLP Projects
 
-* Simple NLP Analysis
-  * [NBA Winner Prediction - PyTorch](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Dense_Fully_Connected_NN/PyTorch/NBA_Example_Feedforward.ipynb)
-  * [NBA Winner Prediction - T.F. Keras](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Dense_Fully_Connected_NN/TensorFlow/NBA_Example_DenseNN.ipynb)
-  * [Regularization - Mushroom Toxicity](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Regularization/PyTorch/Regularization_Techniques.ipynb)
-  * [XOR Example](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Dense_Fully_Connected_NN/XOR/XOR_PyTorch.ipynb)
+* Web Scraping
+  * [Scrape the SEC Webpages for 10-Ks](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Web_Scraping/Class_1_Scrape_SEC_Pages.ipynb)
+  * [Scraping the Tuck Factuly Page](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Web_Scraping/Class_1_Scrape_web_pages.ipynb)
 
-* Optimization and Regularization 
-  * [Mushroom Toxicity Example](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Regularization/PyTorch/Regularization_Techniques.ipynb)
-  * [Breast Histology Classification](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Convolutional_Neural_Networks/Breast_Historology_Img_Analysis/Breast_Histology_Classification.ipynb)
+* Dependency Parsing
+  * [Single Sentence Dependency Parse](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Dependency%20Parsing/Class_1_Dependency_Parse.ipynb)
   
-* Convolutional Networks 
-  * [MNIST Classification with 2D ConvNet](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Convolutional_Neural_Networks/MNIST/MNIST_Script.ipynb)
-  * [Breast Histology Classification with 3D ConvNet](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Convolutional_Neural_Networks/Breast_Historology_Img_Analysis/Breast_Histology_Classification.ipynb)
+* Named Entity Recognition (NER) 
+  * [NER Example](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Named%20Entity%20Recognition/Class_2_NER.ipynb)
 
-* Recurrent Networks 
-  * [Sine Wave Prediction](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/Sine_Wave_Prediction/Sine_Wave_Prediction_RNNs.ipynb)
-  * [Naive Stock Market Data Prediction](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/AAPL_Stock_Prediction/RNN_Finance_Application.ipynb)
-  * [Slide Deck - Vanishing and Exploding Gradients](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Recurrent_Neural_Networks/AAPL_Stock_Prediction/Simple%20stock%20prediction%20ecercise.pdf)
+* POS TAgging
+  * [POS Tagging and Frequency ANalysis](https://github.com/spencerbertsch1/Applied_NLP/blob/master/POS%20Tagging/Parts_of_Speech.ipynb)
   
-* Autoencoders
-  * [Simple MNIST Autoendocer](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Autoencoders/Simple%20Autoencoder%20Experiments.ipynb)
+* Regular Expressions
+  * [Regular Expressions for Online Reviews](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Regualr_Expressions/Class_1_Hotel_reviews_and_regular_expressions.ipynb)
   
-* Final Project - Optimizing Seq2seq Translator 
-  * [Optimization notebook](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/Translator-PyTorch/Optimized_Seq2seq_Translator.ipynb)
-  * [Final slide deck](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/RNNs%20Final%20Project%20Presentation.pdf)
-  * [Final Paper](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/Final_Project/Optimization_of_Encoder_Decoder_Model_Bertsch.pdf)
-
-* Just for fun! 
-  * [TensorFlow.js Model Approximation](https://github.com/spencerbertsch1/Applied-Deep-Learning-ENGG192/blob/master/TensorFlow.js/UserInput_Model/user_input_model.html)
+* Text Generation
+  * [Shakespeare Text Generator](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Text%20Generation/Class_4_Text_Generator_Shakespeare.ipynb)
+  * [Review Text Generator](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Text%20Generation/Week_4_Text_Generator_Hotel.ipynb)
+  

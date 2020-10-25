@@ -46,4 +46,3 @@ If there are any other packages not installed when the code is run, simply call 
   * [Shakespeare Text Generator](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Text%20Generation/Class_4_Text_Generator_Shakespeare.ipynb)
   * [Review Text Generator](https://github.com/spencerbertsch1/Applied_NLP/blob/master/Text%20Generation/Week_4_Text_Generator_Hotel.ipynb)
   
-  
